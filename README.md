@@ -1,6 +1,6 @@
 *Превью :*
 
-![Preview Image]([previewImg.png](https://github.com/KrepostnoyPunk/slider/blob/main/previewImg.png?raw=true))
+![Preview Image](https://github.com/KrepostnoyPunk/slider/blob/main/previewImg.png?raw=true)
 
 *Интро :*
 - Данный проект представляет собой слайдер позволяющий переключать изображения при нажатии на кнопки назад/вперед
